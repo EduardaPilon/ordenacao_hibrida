@@ -1,0 +1,2 @@
+# dependência única do projeto (usada para gerar o gráfico)
+matplotlib>=3.7
